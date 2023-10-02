@@ -6,9 +6,10 @@ commandline tool: rsync, unzip
 
 # Usage
 
+```
 ./dayone2markdown.rb <dayone json zip> <output_dir>
 
 dayone unzip data dir should have following structure:
 1. 1~N <dairy>.json
 2. photos dir to save image ref
-
+```
